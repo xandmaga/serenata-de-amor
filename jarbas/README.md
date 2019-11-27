@@ -43,7 +43,7 @@ Not all receipts are available, so this URL can be `null`.
 
 ##### `GET /api/chamber_of_deputies/reimbursement/`
 
-Lists all reimbursements.
+Lists all reimbursements, paginated every seven results.
 
 ##### Filtering
 
